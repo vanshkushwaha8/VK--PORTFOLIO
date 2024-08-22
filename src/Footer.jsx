@@ -8,7 +8,7 @@ function Footer() {
         <div className="flex flex-col items-center justify-center">
           {/* Social Media Icons */}
           <div className="flex space-x-6 mb-8">
-            <a
+{/*             <a
               href="https://www.facebook.com/profile.php?id=100032899249017"
               target="_blank"
               rel="noopener noreferrer"
@@ -23,9 +23,9 @@ function Footer() {
               className="text-gray-400 hover:text-blue-400 transition-colors duration-300"
             >
               <FaTwitter size={30} />
-            </a>
+            </a> */}
             <a
-              href="https://www.instagram.com/_rah_ul_21/"
+              href="https://www.instagram.com/vansh_kushwaha__/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-pink-600 transition-colors duration-300"
@@ -33,7 +33,7 @@ function Footer() {
               <FaInstagram size={30} />
             </a>
             <a
-              href="https://www.linkedin.com/in/rahul-kumar-gupta-93a9b3283/"
+              href="https://www.linkedin.com/in/vansh-kushwaha-71640a25b/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-blue-700 transition-colors duration-300"
